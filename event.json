@@ -1,0 +1,8 @@
+[
+  {
+    "table_name": "rss-feed-main",
+    "rss_urls": [
+      "https://aws.amazon.com/about-aws/whats-new/recent/feed/"
+    ]
+  }
+]
